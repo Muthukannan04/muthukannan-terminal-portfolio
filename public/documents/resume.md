@@ -1,5 +1,10 @@
 ﻿<hr><h1 style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0;">SRIDHAR SIVAKUMAR</h1><a href="documents\resume.pdf" download style="float: right; background-color: #4CAF50; color: white; padding: 8px 16px; text-decoration: none; font-size: 14px; border-radius: 4px; font-family: Arial, sans-serif;">Download Resume</a></br><a href="mailto:sridamul@gmail.com">sridamul@gmail.com</a> | +91 99422 63363 | Sattur, IN
-<hr style="margin: 10px 0; border: none; border-top: 1px solid #333;"><h2 style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-transform: uppercase; margin-top: 20px;">EXPERIENCE</h2><span style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">JENKINS (GOOGLE SUMMER OF CODE) 
+<hr style="margin: 10px 0; border: none; border-top: 1px solid #333;"><h2 style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-transform: uppercase; margin-top: 20px;">EXPERIENCE</h2><span style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">WasmEdge (LFX) 
+    <span style="float: right; font-size: 14px;">FEB 2025 – Present</span></span></br><span style="font-style: italic;">Mentee</span></br><span style="font-family: Arial, sans-serif;">Remote, IN</span></br>
+    <span>👉Identifying the necessary validations in the Component model validator.</span>
+    <span>👉Implementing the missing validations and testing the changes adhering to the spec.
+
+</span></span><span style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">JENKINS (GOOGLE SUMMER OF CODE) 
     <span style="float: right; font-size: 14px;">MAY 2024 – SEP 2024</span></span></br><span style="font-style: italic;">Contributor</span></br><span style="font-family: Arial, sans-serif;">Remote, IN</span></br>
     <span>👉Developed a Plugin Modernizer Tool to automate the modernization of Jenkins plugins using OpenRewrite recipes, which greatly impacts modernizing 2000+ plugins.</span>
     <span>👉Enhanced plugin compatibility with the latest Jenkins LTS versions by applying automated code transformations.</span>
