@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sridamul.in/sitemap.xml
