@@ -4,15 +4,11 @@ import './App.css';
 
 function App() {
   return (
-    <>
-    <h1 className="visually-hidden">Sridamul - Personalized termial site, dig it to explore sridamul works and interests</h1>
-
     <Router>
       <Routes>
         <Route path="*" element={<Terminal />} />
       </Routes>
     </Router>
-    </>
   );
 }
 

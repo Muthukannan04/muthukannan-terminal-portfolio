@@ -72,11 +72,6 @@
   color: red;
 }
 
-.visually-hidden {
-  position: absolute;
-  left: -9999px;
-}
-
 @media (max-width: 768px) {
   #root {
     padding: 1rem;
