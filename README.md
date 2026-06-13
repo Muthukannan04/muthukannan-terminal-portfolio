@@ -1,25 +1,27 @@
 # 🚀 Muthu Kannan Terminal Portfolio
 
-⭐ Inspired by Sridhar Sivakumar's terminal portfolio project.
+⭐ Inspired by the terminal portfolio project created by Sridhar Sivakumar.
 
-https://github.com/sridamul/sridamul.github.io
-
-A modern terminal-style portfolio website built with React, TypeScript, and Vite. This project provides an interactive command-line experience where visitors can explore my profile, projects, resume, and contact information through terminal commands.
+Original Project: https://github.com/sridamul/sridamul.github.io
 
 ## 🌐 Live Demo
 
 https://muthukannan-porfolio.netlify.app/
 
-## 📸 Features
+## 📖 About
+
+A modern terminal-style portfolio website built with React, TypeScript, and Vite. Visitors can explore my profile, projects, resume, and contact information through an interactive command-line interface.
+
+## ✨ Features
 
 * Interactive Terminal UI
 * Linux-inspired Commands
 * File System Navigation
-* Markdown File Rendering
+* Markdown Rendering
 * Command History Support
 * GitHub Integration
-* Custom Portfolio Content
 * Responsive Design
+* Custom Portfolio Content
 
 ## 🛠️ Tech Stack
 
@@ -45,28 +47,6 @@ https://muthukannan-porfolio.netlify.app/
 | clear   | Clear terminal                   |
 | setbg   | Change terminal background color |
 
-## 📁 Portfolio Files
-
-Navigate to the documents folder:
-
-```bash
-cd documents
-```
-
-View files:
-
-```bash
-ls
-```
-
-Read portfolio information:
-
-```bash
-cat aboutme.md
-cat resume.md
-cat contact.md
-```
-
 ## 🚀 Run Locally
 
 Clone the repository:
@@ -87,7 +67,7 @@ Install dependencies:
 npm install
 ```
 
-Start development server:
+Run the development server:
 
 ```bash
 npm run dev
@@ -99,11 +79,31 @@ Build for production:
 npm run build
 ```
 
+## 🐳 Run with Docker
+
+Build Docker image:
+
+```bash
+docker build -t muthukannan-portfolio .
+```
+
+Run container:
+
+```bash
+docker run -d -p 8080:80 muthukannan-portfolio
+```
+
+Open:
+
+```text
+http://localhost:8080
+```
+
 ## 👨‍💻 About Me
 
 **Muthu Kannan**
 
-* B.E Computer Science and Engineering
+* B.E. Computer Science and Engineering
 * Java Full Stack Developer
 * Spring Boot Developer
 * React Developer
@@ -111,11 +111,12 @@ npm run build
 
 ## 🔗 Connect With Me
 
-GitHub:
-https://github.com/Muthukannan04
+* GitHub: https://github.com/Muthukannan04
+* LinkedIn: https://www.linkedin.com/in/muthu-kannan-p/
 
-LinkedIn:
-https://www.linkedin.com/in/muthu-kannan-p/
+## 🙏 Acknowledgement
+
+Inspired by the terminal portfolio created by Sridhar Sivakumar.
 
 ## 📄 License
 
