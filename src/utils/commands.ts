@@ -165,8 +165,8 @@ export const getResponseForCommand = async (command: string): Promise<string | n
         return now.toLocaleDateString('en-US', options) + ' ' + now.toLocaleTimeString('en-US', { hour12: false });
       }
       case 'github': {
-        window.open('https://github.com/sridamul', '_blank');
-        return 'Redirecting to GitHub page... If not redirected, click <a href="https://github.com/sridamul" target="_blank">here</a>.';
+       window.open('https://github.com/Muthukannan04', '_blank');
+          return 'Redirecting to GitHub profile...';
       }
       case 'setbg': {
         if (args.length !== 1) return "Usage: setBg &lt;color&gt;";

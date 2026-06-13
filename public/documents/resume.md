@@ -1,34 +1,112 @@
-﻿<hr><h1 style="font-family: Arial, sans-serif; line-height: 1.6; margin: 0;">SRIDHAR SIVAKUMAR</h1><a href="documents\resume.pdf" download style="float: right; background-color: #4CAF50; color: white; padding: 8px 16px; text-decoration: none; font-size: 14px; border-radius: 4px; font-family: Arial, sans-serif;">Download Resume</a></br><a href="mailto:sridamul@gmail.com">sridamul@gmail.com</a> | +91 99422 63363 | Sattur, IN
-<hr style="margin: 10px 0; border: none; border-top: 1px solid #333;"><h2 style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-transform: uppercase; margin-top: 20px;">EXPERIENCE</h2><span style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">WasmEdge (LFX) 
-    <span style="float: right; font-size: 14px;">FEB 2025 – Present</span></span></br><span style="font-style: italic;">Mentee</span></br><span style="font-family: Arial, sans-serif;">Remote, IN</span></br>
-    <span>👉Identifying the necessary validations in the Component model validator.</span>
-    <span>👉Implementing the missing validations and testing the changes adhering to the spec.
+﻿<hr>
 
-</span></span><span style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">JENKINS (GOOGLE SUMMER OF CODE) 
-    <span style="float: right; font-size: 14px;">MAY 2024 – SEP 2024</span></span></br><span style="font-style: italic;">Contributor</span></br><span style="font-family: Arial, sans-serif;">Remote, IN</span></br>
-    <span>👉Developed a Plugin Modernizer Tool to automate the modernization of Jenkins plugins using OpenRewrite recipes, which greatly impacts modernizing 2000+ plugins.</span>
-    <span>👉Enhanced plugin compatibility with the latest Jenkins LTS versions by applying automated code transformations.</span>
-    <span>👉Implemented the tool's command-line interface (CLI), enabling seamless integration into CI/CD pipelines.</span>
-    <span>👉Ensured robust testing with high coverage by writing comprehensive unit and integration tests, improving code reliability.</span>
-    <span>👉Collaborated with the Jenkins community, adhering to open-source best practices and contributing to documentation and tutorials.</span>
-<hr style="margin: 10px 0; border: none; border-top: 1px solid #333;"><h2 style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-transform: uppercase; margin-top: 20px;">PROJECTS</h2><h3 style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">PLUGIN MODERNIZER TOOL — AUTOMATION TOOL</h3><a href="https://github.com/jenkinsci/plugin-modernizer-tool" style="color: #1a0dab; text-decoration: none;" target="_blank">GitHub</a> | <a href="https://www.jenkins.io/projects/gsoc/2024/projects/using-openrewrite-recipes-for-plugin-modernization-or-automation-plugin-build-metadata-updates/" style="color: #1a0dab; text-decoration: none;" target="_blank">Project Page</a></br>
-<span style="font-family: Arial, sans-serif; line-height: 1.6;">A CLI tool developed as part of the Google Summer of Code project to automate the modernization of Jenkins plugins.</span>
-    <span>👉Capable of performing large-scale code refactoring across different repositories in an organization.</span>
-    <span>👉Integrated with the GitHub API to automate workflows, including forking repositories, cloning, creating pull requests, and more.</span></br>
-<span style="font-family: Arial, sans-serif; line-height: 1.6;"><strong>Technologies used:</strong> Java, OpenRewrite, Maven Invoker, GitHub API, JGit, JUnit, Mockito</span>
-<h3 style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">CODE TEMPLE — ONLINE JUDGE</h3><a href="https://github.com/srid2406/Code-Temple" style="color: #1a0dab; text-decoration: none;" target="_blank">GitHub</a> | <a href="https://github.com/srid2406/Code-Temple?tab=readme-ov-file#code-temple" style="color: #1a0dab; text-decoration: none;" target="_blank">Project Page</a></br>
-<span style="font-family: Arial, sans-serif; line-height: 1.6;">A platform for solving programming problems with a built-in Online Judge system.</span>
-    <span>👉Developed a robust system for evaluating real-time code submissions against test cases.</span>
-    <span>👉Integrated user authentication and authorization using PassportJS, ensuring secure access to the platform.</span>
-    <span>👉Containerized the platform using Docker and Docker Compose for streamlined deployment and scalability.</span></br>
-<span style="font-family: Arial, sans-serif; line-height: 1.6;"><strong>Technologies used:</strong> TypeScript, React, Node, MongoDB, Mongoose, PassportJS, Docker, Docker Compose</span>
-<hr style="margin: 10px 0; border: none; border-top: 1px solid #333;"><h2 style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-transform: uppercase; margin-top: 20px;">EDUCATION</h2><span style="font-family: Arial, sans-serif; font-size: 16px; font-weight: bold;">PSR ENGINEERING COLLEGE, Sivakasi, TN 
-    <span style="float: right; font-size: 14px;">2021 – 2025</span>
-</span><span style="font-style: italic;">Bachelor of Engineering, Computer Science</span></br><span style="font-family: Arial, sans-serif;">GPA: 8.4</span>
-<hr style="margin: 10px 0; border: none; border-top: 1px solid #333;"><h2 style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-transform: uppercase; margin-top: 20px;">SKILLS</h2><span style="font-family: Arial, sans-serif;"><strong>Programming Languages:</strong> C, C++, Java, TypeScript, Python, Bash</span></br>
-<span style="font-family: Arial, sans-serif;"><strong>Technologies:</strong> Git, Docker, Node.js, AWS, Linux, PostgreSQL, SQL, MongoDB, Postman, Maven, Gradle, Jenkins, Vagrant</span></br>
-<span style="font-family: Arial, sans-serif;"><strong>Concepts:</strong> Object-Oriented Programming, Databases, Virtualization, TDD, Design Patterns, CI/CD, Containerization, Dependency Management</span>
-<hr style="margin: 10px 0; border: none; border-top: 1px solid #333;"><h2 style="font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; text-transform: uppercase; margin-top: 20px;">ADDITIONAL INFORMATION</h2><span style="font-family: Arial, sans-serif;"><strong>Languages:</strong> Fluent in Tamil (native), and English; Conversational Proficiency in Telugu.</span></br>
-<span style="font-family: Arial, sans-serif;"><strong>Open Source Contributions:</strong> Contributed over 50+ merged pull requests across various open-source projects and organizations.</span></br>
-<span style="font-family: Arial, sans-serif;"><strong>Leadership:</strong> Founded an OSS club at our college, promoting open source among students unfamiliar with it.</span>
+<h1 style="font-family: Arial, sans-serif; margin: 0;">MUTHU KANNAN P</h1>
+
+<a href="documents/resume.pdf" download style="float: right; background-color: #4CAF50; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px;">Download Resume</a>
+
+<br>
+
+<a href="mailto:muthukannan883@gmail.com">[muthukannan883@gmail.com](mailto:muthukannan883@gmail.com)</a> |
++91 8925120763 |
+Tenkasi, Tamil Nadu, India
+
+<hr>
+
+<h2>OBJECTIVE</h2>
+
+Computer Science Engineering graduate with strong skills in Java, Spring Boot, SQL, REST APIs, and Backend Development. Passionate about building scalable applications, solving real-world problems, and continuously learning modern technologies.
+
+<hr>
+
+<h2>INTERNSHIP</h2>
+
+<b>Cybersecurity Intern — Vetri Technology Solutions, Tenkasi</b>
+
+• Learned cybersecurity fundamentals, security threats, and risk management.
+
+• Worked with security tools and gained exposure to system and network protection practices.
+
+• Improved understanding of cyber attacks, vulnerabilities, and defensive techniques.
+
+<hr>
+
+<h2>PROJECTS</h2>
+
+<h3>Course Registration System</h3>
+
+<b>Technologies:</b> Java, Spring Boot, REST API, MySQL, JPA, HTML, CSS, JavaScript
+
+• Developed a full-stack Course Registration System for student enrollment and course management.
+
+• Implemented authentication and role-based access control.
+
+• Built RESTful APIs and CRUD operations using Spring Boot.
+
+• Integrated MySQL with Spring Data JPA.
+
+<h3>Plant Disease Detection Using Deep Learning</h3>
+
+<b>Technologies:</b> Python, YOLO, Deep Learning
+
+• Developed a plant disease detection system using YOLO.
+
+• Enabled real-time disease identification and classification.
+
+• Suggested remedies and preventive measures for farmers.
+
+<h3>Student Management System</h3>
+
+<b>Technologies:</b> Java, Swing, File Handling
+
+• Developed a desktop application for managing student records.
+
+• Implemented CRUD operations and data persistence.
+
+<hr>
+
+<h2>EDUCATION</h2>
+
+<b>PSR Engineering College, Sivakasi</b>
+
+Bachelor of Engineering – Computer Science and Engineering
+
+2021 – 2025
+
+CGPA: 7.57
+
+<br><br>
+
+<b>S. Thangapazham Polytechnic, Tenkasi</b>
+
+Diploma
+
+Percentage: 89%
+
+<hr>
+
+<h2>TECHNICAL SKILLS</h2>
+
+<b>Languages:</b> Java, SQL, C++, C
+
+<b>Backend:</b> Spring Boot, Spring MVC, Spring Security, REST APIs
+
+<b>Database:</b> MySQL, Hibernate, Spring Data JPA
+
+<b>Tools:</b> Git, GitHub, Maven, Docker, Postman, Swagger, VS Code, IntelliJ IDEA
+
+<b>Concepts:</b> OOP, Data Structures, MVC Architecture, JWT Authentication, RBAC
+
+<hr>
+
+<h2>LINKS</h2>
+
+GitHub:
+https://github.com/Muthukannan04
+
+LinkedIn:
+https://www.linkedin.com/in/muthu-kannan-p/
+
+Portfolio:
+(Add your deployed portfolio link here)
+
 <hr>
