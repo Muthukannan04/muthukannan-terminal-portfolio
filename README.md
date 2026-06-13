@@ -8,7 +8,7 @@ A modern terminal-style portfolio website built with React, TypeScript, and Vite
 
 ## 🌐 Live Demo
 
-https://app.netlify.com/projects/muthukannan-porfolio/overview
+https://muthukannan-porfolio.netlify.app/
 
 ## 📸 Features
 
