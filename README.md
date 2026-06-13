@@ -1,77 +1,122 @@
-# Personal Terminal Website
+# 🚀 Muthu Kannan Terminal Portfolio
 
-> [!Note]
-> Work in progress
+⭐ Inspired by Sridhar Sivakumar's terminal portfolio project.
 
-## Quick Start
+https://github.com/sridamul/sridamul.github.io
 
-This repository is deployed as a Docker Hub image. To use it quickly, pull the image using the following command:
+A modern terminal-style portfolio website built with React, TypeScript, and Vite. This project provides an interactive command-line experience where visitors can explore my profile, projects, resume, and contact information through terminal commands.
+
+## 🌐 Live Demo
+
+https://app.netlify.com/projects/muthukannan-porfolio/overview
+
+## 📸 Features
+
+* Interactive Terminal UI
+* Linux-inspired Commands
+* File System Navigation
+* Markdown File Rendering
+* Command History Support
+* GitHub Integration
+* Custom Portfolio Content
+* Responsive Design
+
+## 🛠️ Tech Stack
+
+* React
+* TypeScript
+* Vite
+* CSS
+* Markdown
+
+## 📂 Available Commands
+
+| Command | Description                      |
+| ------- | -------------------------------- |
+| help    | Display help information         |
+| compgen | List all available commands      |
+| ls      | List files and directories       |
+| cd      | Change directory                 |
+| cat     | View file contents               |
+| man     | Show command manual              |
+| history | Show command history             |
+| date    | Display current date and time    |
+| github  | Open GitHub profile              |
+| clear   | Clear terminal                   |
+| setbg   | Change terminal background color |
+
+## 📁 Portfolio Files
+
+Navigate to the documents folder:
 
 ```bash
-docker pull sridamul/terminal-website:latest
+cd documents
 ```
 
-Once the image is pulled, you can run a container with the following command:
+View files:
 
 ```bash
-docker run -d -p 80:80 sridamul/terminal-website:latest
+ls
 ```
 
-## Getting Started
+Read portfolio information:
 
-This project uses React and TypeScript with Vite for configuration.
+```bash
+cat aboutme.md
+cat resume.md
+cat contact.md
+```
 
-### Requirements
-The following versions are currently used in this project:
-- Node.js: 22.5.1
-- npm: 10.8.2
+## 🚀 Run Locally
 
-### Fork and Clone the Repo
-1. Fork this repository to your GitHub account.
-2. Clone the forked repository to your local machine using:
-   
-   ```bash
-   git clone https://github.com/<your-username>/sridamul.github.io
-   ```
+Clone the repository:
 
-### Install the dependencies
+```bash
+git clone https://github.com/Muthukannan04/terminal-portfolio.git
+```
+
+Navigate to the project:
+
+```bash
+cd terminal-portfolio
+```
+
+Install dependencies:
 
 ```bash
 npm install
 ```
 
-### Run the development server
+Start development server:
 
 ```bash
 npm run dev
 ```
 
-## Features
+Build for production:
 
-- **File System**: Mocked a simple file system and allows the user to navigate between them.
-- **Various Commands**: Allows the user to explore the terminal smoothly.
-- **Tab Autocompletion**: Autocompletion of command, directory, and file names using the tab key.
-- **Cursor Autofocus**: Automatically focuses back on the input box if the user starts typing, even if the cursor is clicked somewhere else.
-- **Maintaining Histor**y: Maintains a history of commands used and allows the user to switch between them using the up and down arrow keys
-- **Customizing the Terminal**: Commands like setBg can be used to customize the background color.
-- **Manual Pages**: Small descriptions about each command.
-- **Rendering Markdown**: Supports rendering Markdown content within the terminal.
+```bash
+npm run build
+```
 
-## Available commands
+## 👨‍💻 About Me
 
-- **cat** - Displays the contents of a file. Usage: cat &lt;file&gt;
-- **cd** - Changes the current directory. Usage: cd &lt;directory&gt;
-- **clear** - Clears the terminal screen.
-- **compgen** - Lists all available commands.
-- **date** - Displays the current date and time.
-- **github** - Opens the GitHub page in a new tab.
-- **history** - Displays the list of history of commands used.
-- **help** - Displays a help message.
-- **ls** - Lists the contents of the current directory.
-- **man** - Displays the manual page for a command. Usage: man &lt;command&gt;
-- **setbg** - Changes the background color of the terminal. Usage: setBg &lt;color&gt;
+**Muthu Kannan**
 
-## Inspiration
+* B.E Computer Science and Engineering
+* Java Full Stack Developer
+* Spring Boot Developer
+* React Developer
+* Cybersecurity Intern at Vetri Technologies
 
-https://craigfeldman.com/<br>
-http://www.ronniepyne.com/
+## 🔗 Connect With Me
+
+GitHub:
+https://github.com/Muthukannan04
+
+LinkedIn:
+https://www.linkedin.com/in/muthu-kannan-p/
+
+## 📄 License
+
+This project is open source and available under the MIT License.
